@@ -1,1 +1,1 @@
-# rsschool-cv
+https://kapskii.github.io/rsschool-cv/cv#my-contacts
