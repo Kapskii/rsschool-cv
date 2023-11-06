@@ -21,7 +21,7 @@ My main goal is professional growth and development in the field of information 
 - Adobe Photoshop
 
 
-## 🔗 Code Examples
+## Code Examples
 
 ```
 type PropsType = ButtonProps & {
@@ -42,4 +42,16 @@ export let SuperButton: React.FC<PropsType> = (props) => {
     )
 }
 ```
+## Work Experience 🔗
+- [Landing Page](https://github.com/Kapskii/photo_website)
+- [Todolist](https://github.com/Kapskii/newTodolist)
+- [Social Network (in progress)](https://github.com/Kapskii/Social-network)
 
+## Education 📚
+- RS-School (Stage 1)
+- IT-INCUBATOR (pre-course)
+- Minsk State Automobile Mechanic College (Mechanical Technician)
+
+## Languages 
+- Russian 🇷🇺 (native)
+- English 🇬🇧 (A1 - in progress)
